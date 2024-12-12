@@ -19,10 +19,7 @@
   <img align="center" alt="Eriky-PostGreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Eriky-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="Eriky-GitHub" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />
-
-  <img align="right" alt="Eriky-Goku" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />
 </div>
-
 
           
 ##
@@ -35,3 +32,8 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
+##
+
+
+
