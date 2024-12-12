@@ -2,7 +2,6 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devErikyLS&show_icons=true&theme=darkblue&include_all_commits=true" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devErikyLS&layout=compact&langs_count=16&theme=darkblue" />
 </div>
 
 
@@ -34,6 +33,10 @@
 </div>
 
 ##
+<p align="center">
+  <img alt="Eriky-GitHub" src="https://imgur.com/ftpCxt9.gif" width="100%" />
+</p>
+
 
 
 
