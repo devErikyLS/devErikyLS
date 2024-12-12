@@ -1,4 +1,4 @@
-## Olá! Eu sou Eriky Lima, estudante em Análise e Desenvolvimento de Sistemas! 👨🏻‍💻
+## Olá! Eu sou Eriky Lima, estudante de Análise e Desenvolvimento de Sistemas! 👨🏻‍💻
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devErikyLS&show_icons=true&theme=darkblue&include_all_commits=true" />
