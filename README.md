@@ -1,8 +1,8 @@
 ## Olá! Eu sou Eriky Lima, estudante em Análise e Desenvolvimento de Sistemas! 👨🏻‍💻
 
 <div>
-  <img height="188em" src="https://github-readme-stats.vercel.app/api?username=devErikyLS&show_icons=true&theme=darkblue&include_all_commits=true" />
-  <img height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devErikyLS&layout=compact&langs_count=16&theme=darkblue" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devErikyLS&show_icons=true&theme=darkblue&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devErikyLS&layout=compact&langs_count=16&theme=darkblue" />
 </div>
 
 
